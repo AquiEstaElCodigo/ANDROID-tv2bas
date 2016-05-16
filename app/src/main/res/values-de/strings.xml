@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ANDROID-tv2bas</string>
+    <string name="saludo" translatable="false">HALLO</string>
+    <string name="titulo" translatable="false">Android Kurs</string>
+</resources>

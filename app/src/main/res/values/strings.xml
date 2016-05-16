@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ANDROID-tv2bas</string>
+
+    <string name="titulo" translatable="false">Tutorial de Android!!</string>
+
+    <string name="saludo" translatable="false">HOLA</string>
 </resources>
